@@ -64,3 +64,12 @@ it will return an empty array since discounted is const which does not change.
 
 #### 17.
 Goodbye. in the first condition, it return false since 2 != true, and same as the second condition.
+
+#### 19.
+we iterate the input array in the for loop, each time we call callback function, which is dosomething with parameter(array[i] and another function. the input function will have the input value x mutilpyied by 2, and dosomething will call this input function with the parameter array[i] + 2. Therefore, 2*(array[i]+2) will be added into the newArr each time we iterate in the for loop. And the final answer would be [6,8,10]
+
+#### 21.
+1
+4
+3
+2
