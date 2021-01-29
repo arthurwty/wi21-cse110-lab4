@@ -33,3 +33,34 @@ the result of var finalPrice after running the for loop will be printed since fi
 
 #### 12.
 it will return an empty array since discounted is const which does not change.
+
+#### 13.
+- student.name
+- student.'Grad Year'
+- student.greeting();
+- student.'Favorite Teacher'.name
+- student.courseLoad[0]
+
+#### 14.
+- "32"
+- 1
+- 3
+- "3null"
+- 4
+- 0
+- "3undefined"
+- Nan
+
+#### 15.
+- true
+- false
+- true
+- false
+- false
+- true
+
+#### 16.
+== compares two variables without considering their datatype. === compares two variables and return true only if the two variables has the same datatype and values
+
+#### 17.
+Goodbye. in the first condition, it return false since 2 != true, and same as the second condition.
